@@ -1,34 +1,27 @@
-OBJECTIVE
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on **time series analysis**, to provide valuable insights and accurate sales forecasting.
+OBJECTIVE  ::  
+ 🚀 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on **time series analysis**, to provide valuable insights and accurate sales forecasting.
 
-DESCRIPTION
-The objective can be broken down into the following detailed components:
+DESCRIPTION ::
+ 🚀 The objective can be broken down into the following detailed components:
 
-Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
+🚀 Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
 
-Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts
+🚀 Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts
 
-Sales Forecasting: Leverage historic data and apply time series to generate sales forecasts for next 15 days
+🚀 Sales Forecasting: Leverage historic data and apply time series to generate sales forecasts for next 15 days
 
-Actionable Insights and Recommendations: End goal is to provide insights and actionable information that can drive strategic decisions and support the supermarket's goals for growth, efficiency, and customer satisfaction
+ 🛠️ Actionable Insights and Recommendations: End goal is to provide insights and actionable information that can drive strategic decisions and support the supermarket's goals for growth, efficiency, and customer satisfaction
 
 
-Topics covered in this Power BI Project : 
-Power BI Project Overview
-Power Bi Project Objective
-Import Data in Power BI
-Data Cleaning & Processing in Power BI
-Power Query Editor in Power BI
-DAX in Power BI
-Measures and Calculations in Power BI
-Create New Columns and Tables in Power BI
-Advanced Charts and Maps in Power BI
-Filters and Slicers in Power BI
-Zoom in Charts in Power BI
-Dashboard Design in PowerBI
-Export Power BI Dashboard
-Insights from Dashboard 
+🧠 Core Concepts Applied
 
+🚀Dashboard Design & Development . 
+🚀 KPI Monitoring
+🚀Data Modeling & Relationships
+🚀Payment Mode Insights
+🚀Data Modeling & Relationships
+🚀Data Modeling & Relationships
+🚀Actionable Insights & Recommendations
 
 Here are several interesting insights extracted from the Power BI dashboard "Super Store Sales Dashboard":
 
